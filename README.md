@@ -119,8 +119,8 @@ routes(페이지 UI)
 ### 설치 & 실행
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd mantech-portfolio-web
+git clone https://github.com/mantech-portfolio/mantech-frontweb-demo
+cd mantech-frontweb-demo
 pnpm install
 pnpm dev
 ```
